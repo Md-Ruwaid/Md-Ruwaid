@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Md Ruwaid 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7A18&center=true&vCenter=true&width=600&lines=Creative+Developer;Full-Stack+Engineer;Problem+Solver;Building+Bright+Ideas+into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7A18&center=true&vCenter=true&width=600&lines=Creative+Developer;Full-Stack+Engineer;Problem+Solver;Building+Bright+Ideas" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-profile"><img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/md-ruwaid-5b895b32a/?isSelfProfile=true)" /></a>
+  <a href="https://www.linkedin.com/in/md-ruwaid-5b895b32a/?isSelfProfile=true"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Md-Ruwaid"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
@@ -24,7 +24,7 @@
 
 ## ✨ About Me
 
-I’m a developer who enjoys turning ideas into polished, practical, and impactful experiences. I like writing clean code, solving real-world problems, and constantly exploring new tools and technologies to build smarter products.
+I’m a developer who enjoys turning ideas into polished, practical, and impactful experiences. I like writing clean code, solving real-world problems, and constantly exploring new tools and technologies.
 
 - 💡 Passionate about coding, design, and product thinking
 - ⚙️ Interested in modern web development and scalable systems
@@ -78,7 +78,7 @@ I’m a developer who enjoys turning ideas into polished, practical, and impactf
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Ruwaid&theme=radical&background=111827&border=F72585&stroke=F72585&ring=FFB703&fire=FF7A18&currStreakNum=F8F9FA&sideNums=F8F9FA&currStreakLabel=F8F9FA&sideLabels=F8F9FA" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Ruwaid&theme=radical&background=111827&border=F72585&stroke=F72585&ring=FFB703&fire=FF7A18&currStreakNum=F8F9FA&sideNums=F8F9FA" />
 </p>
 
 ## 🤝 Let’s Connect
