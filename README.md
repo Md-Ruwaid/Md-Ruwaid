@@ -1,10 +1,10 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ruwwaid&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Freelance%20Web%20Dev%20%E2%80%A2%20CS%20Student%20%E2%80%A2%20Builder&descAlignY=60&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ruwwaid&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Shipping+websites+for+real+businesses+in+Hyderabad;Building+tools+I+wish+existed;Turning+ideas+into+products%2C+one+commit+at+a+time;Currently+obsessed+with+clean+UX+%26+smooth+animations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Shipping+websites+for+real+businesses.;Designing+with+focus.;Building+for+users." />
 </a>
 
 <br/>
@@ -108,7 +108,7 @@ Self-healing Docker container monitor. When a container dies, it rises again.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Md-Ruwaid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Md-Ruwaid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Ruwaid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa" />
 
 <br/>
@@ -151,15 +151,20 @@ I build fast, modern websites and web apps for small businesses. Cafés, interio
 
 <div align="center">
 
-
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/md-ruwaid-5b895b32a/?isSelfProfile=true))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-ruwaid-5b895b32a/?isSelfProfile=true)
 [![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:md.ruwaid1@gmail.com)
 
 </div>
 
+<!-- Animated call-to-action -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Open+for+freelance;Available+for+collaboration;Let's+build+something+together" />
+</p>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%" />
 
 </div>
 
