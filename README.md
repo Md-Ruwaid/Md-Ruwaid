@@ -25,7 +25,7 @@ const ruwwaid = {
   role: ["Freelance Web Developer", "CS Student", "Aspiring Founder"],
   currentlyBuilding: ["Ctrl Slot", "Wrigly", "BeChill", "DishRank"],
   workflow: "talk to users first → build second",
-  funFact: "I cold-call café owners and rebuild their websites better than they imagined",
+  funFact: "I rebuild websites better than they imagined",
   lookingFor: "Clients, collabs, and ideas worth shipping",
 };
 ```
