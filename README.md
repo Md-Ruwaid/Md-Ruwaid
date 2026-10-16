@@ -1,98 +1,195 @@
-<h1 align="center">Hey there, I'm Md Ruwaid 👋</h1>
+<!-- ═══════════════ HEADER ═══════════════ -->
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7A18&center=true&vCenter=true&width=600&lines=Creative+Developer;Full-Stack+Engineer;Problem+Solver;Building+Bright+Ideas" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ruwwaid&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Freelance%20Web%20Dev%20%E2%80%A2%20CS%20Student%20%E2%80%A2%20Builder&descAlignY=60&descSize=20" width="100%" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code%20with%20passion-%F0%9F%92%BB-FFB703?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning+every+day-%F0%9F%93%9A-00C2FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Building+cool+things-%E2%9C%A8-7C3AED?style=for-the-badge" />
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Shipping+websites+for+real+businesses+in+Hyderabad;Building+tools+I+wish+existed;Turning+ideas+into+products%2C+one+commit+at+a+time;Currently+obsessed+with+clean+UX+%26+smooth+animations" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/md-ruwaid-5b895b32a/?isSelfProfile=true"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Md-Ruwaid"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Md-Ruwaid&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile views" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Md-Ruwaid&label=VISITORS&color=7c3aed&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Md-Ruwaid?style=for-the-badge&logo=github&color=302b63&labelColor=0f0c29)
+![Stars](https://img.shields.io/github/stars/Md-Ruwaid?style=for-the-badge&logo=github&color=302b63&labelColor=0f0c29)
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48a18d-7d00e4e7a64d.gif" width="100%" />
-
-## ✨ About Me
-
-I’m a developer who enjoys turning ideas into polished, practical, and impactful experiences. I like writing clean code, solving real-world problems, and constantly exploring new tools and technologies.
-
-- 💡 Passionate about coding, design, and product thinking
-- ⚙️ Interested in modern web development and scalable systems
-- 🌱 Always learning and shipping side projects
-- 🚀 Open to collaborations, freelance work, and meaningful opportunities
-
-## 🧠 Tech Stack
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-## 🚀 Current Focus
-
-- Building practical and engaging digital experiences
-- Improving my frontend and backend engineering skills
-- Creating projects that solve real user problems
-- Exploring modern, efficient, and scalable architecture
-
-## 🌟 Featured Projects
-
-> Add your best work here
-
-- Project 1 — Description of your main app/project
-- Project 2 — Description of another project
-- Project 3 — Description of a portfolio or utility project
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Md-Ruwaid&show_icons=true&theme=radical&title_color=FFB703&icon_color=F72585&text_color=F8F9FA&bg_color=111827" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Ruwaid&theme=radical&background=111827&border=F72585&stroke=F72585&ring=FFB703&fire=FF7A18&currStreakNum=F8F9FA&sideNums=F8F9FA" />
-</p>
-
-## 🤝 Let’s Connect
-
-I’m open to:
-- freelance opportunities
-- product collaborations
-- learning and sharing ideas
-- building meaningful projects
-
-If you want to work together or just talk tech, feel free to reach out.
+</div>
 
 ---
 
-<p align="center">
-  <i>“Great ideas become even greater when they’re built with purpose.”</i>
-</p>
+## 👋 `whoami`
+
+```js
+const ruwwaid = {
+  location: "Hyderabad, India 🇮🇳",
+  role: ["Freelance Web Developer", "CS Student", "Aspiring Founder"],
+  currentlyBuilding: ["Ctrl Slot", "Wrigly", "BeChill", "DishRank"],
+  workflow: "talk to users first → build second",
+  funFact: "I cold-call café owners and rebuild their websites better than they imagined",
+  lookingFor: "Clients, collabs, and ideas worth shipping",
+};
+```
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⌨️ [Ctrl Slot](https://github.com/Md-Ruwaid/Ctrl-slot)
+Windows clipboard utility. Every copy fills a numbered slot, and `Ctrl + 1…9` pastes it back. Free, no login, no nonsense.
+
+`Electron` `JavaScript` `Windows`
+
+</td>
+<td width="50%" valign="top">
+
+### ⏰ Wrigly
+Time management app with an incoming-call mechanic that makes you actually respect your schedule.
+
+`React` `GSAP` `Framer Motion`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍽️ DishRank
+Dish-first food discovery and rating platform for Hyderabad. Rate the biryani, not the restaurant.
+
+`React` `Node.js` `SQLite`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔥 Phoenix
+Self-healing Docker container monitor. When a container dies, it rises again.
+
+`Docker` `DevOps` `Monitoring`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Md-Ruwaid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Ruwaid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Md-Ruwaid&theme=tokyonight&hide_border=true&background=0f0c29&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Ruwaid&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Md-Ruwaid/Md-Ruwaid/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+> 💡 To activate the snake: add the workflow at the bottom of this file to `.github/workflows/snake.yml` in your profile repo.
+
+---
+
+## 🧠 How I Build
+
+```text
+1. 🗣️  Talk to real users          →  find the actual pain
+2. 🔍  Validate before coding      →  no pain, no product
+3. ⚡  Ship a lean MVP fast        →  ugly but working beats pretty but imaginary
+4. ✨  Polish the UX               →  animations, spacing, feel
+5. 🔁  Iterate on feedback         →  repeat until people care
+```
+
+---
+
+## 🤝 Let's Work Together
+
+I build fast, modern websites and web apps for small businesses. Cafés, interiors, event organisers, local brands. If your site looks like 2012, we should talk.
+
+<div align="center">
+
+
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/md-ruwaid-5b895b32a/?isSelfProfile=true))
+[![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:md.ruwaid1@gmail.com)
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
+
+</div>
+
+<!--
+═══════════════════════════════════════════════════════════
+ SNAKE WORKFLOW → save as .github/workflows/snake.yml
+═══════════════════════════════════════════════════════════
+
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+permissions:
+  contents: write
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+-->
